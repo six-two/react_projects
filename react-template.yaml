@@ -1,0 +1,11 @@
+title: My projects
+description: A website showing some of my projects
+menu:
+  - title: My website
+    url: "https://six-two.dev"
+    id: page-nav-web
+  - title: Source code
+    url: "https://github.com/six-two/react_projects"
+    id: page-nav-source
+pre_build:
+  - template-tools/defaults.py <PROJECT>
