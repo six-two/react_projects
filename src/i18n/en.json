@@ -1,3 +1,10 @@
 {
-  "test": "Hello, world!"
+  "contact_title": "Contact me",
+  "discord": "Discord",
+  "email": "Email",
+  "general_description": "I am a programmer from Germany. [...] Some day I will finish this text :D",
+  "general_title": "General",
+  "telegram": "Telegram",
+  "threema": "Threema",
+  "web_form": "Online contact form"
 }

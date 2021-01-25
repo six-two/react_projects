@@ -1,3 +1,18 @@
-test:
- en: Hello, world!
- de: Hallo, Welt!
+general_title:
+  en: General
+  de: Allgemein
+general_description:
+  en: I am a programmer from Germany. [...] Some day I will finish this text :D
+  de: Ich bin ein Programmierer aus Deutschland. [...] Und irgendwann werde ich diesen Text einmal vervollständigen :D
+contact_title:
+  en: Contact me
+  de: Kontakt
+email:
+  en: Email
+  de: E-Mail
+telegram: Telegram
+threema: Threema
+discord: Discord
+web_form:
+  en: Online contact form
+  de: Online Kontaktformular
