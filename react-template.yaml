@@ -3,7 +3,8 @@ title_icon: "%PUBLIC_URL%/logo192.png"
 description: A website showing some infos about me
 menu:
   - title: Source code
-    url: "https://github.com/six-two/react_projects"
+    url: "https://github.com/six-two/react_website"
     id: page-nav-source
+no_donate_banner: true
 pre_build:
   - template-tools/defaults.py <PROJECT>
